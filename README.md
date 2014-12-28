@@ -7,18 +7,18 @@ dark-souls route
 - Iron Golem            X
 - Laurel et Hardy       X
 - Pinwheel		X
-- Nito
-- Stray (asylum bis)
-- Gwyndolin
-- Priscilla
-- Seath
-- Hydra
-- Guardian
-- Artorias
-- Manus
-- Kalameet
-- Sif
-- Butterfly
+- Nito			X
+- Stray (asylum bis)	X
+- Hydra			X
+- Gwyndolin		X
+- Priscilla		X
+- Seath			X
+- Guardian		X
+- Artorias		X
+- Manus			X
+- Kalameet		X
+- Sif			X
+- Butterfly		X
 - Three kings
 - Cappra demon
 - Gapping demon
