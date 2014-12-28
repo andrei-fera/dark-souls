@@ -6,7 +6,7 @@ dark-souls route
 - Quelaag               X
 - Iron Golem            X
 - Laurel et Hardy       X
-- Pinwheel
+- Pinwheel		X
 - Nito
 - Stray (asylum bis)
 - Gwyndolin
