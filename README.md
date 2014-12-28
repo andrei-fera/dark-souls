@@ -1,11 +1,11 @@
 dark-souls route
 ==========
-- Asylum
-- Taurus
-- Gagouilles
-- Quelaag
-- Iron Golem
-- Laurel et Hardy
+- Asylum                X
+- Taurus                X
+- Gagouilles            X
+- Quelaag               X
+- Iron Golem            X
+- Laurel et Hardy       X
 - Pinwheel
 - Nito
 - Stray (asylum bis)
