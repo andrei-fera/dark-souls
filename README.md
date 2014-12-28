@@ -1,0 +1,29 @@
+dark-souls route
+==========
+- Asylum
+- Taurus
+- Gagouilles
+- Quelaag
+- Iron Golem
+- Laurel et Hardy
+- Pinwheel
+- Nito
+- Stray (asylum bis)
+- Gwyndolin
+- Priscilla
+- Seath
+- Hydra
+- Guardian
+- Artorias
+- Manus
+- Kalameet
+- Sif
+- Butterfly
+- Three kings
+- Cappra demon
+- Gapping demon
+- Ceaseless
+- Firesage
+- Centipede
+- Bed of chaos
+- Gwyn
